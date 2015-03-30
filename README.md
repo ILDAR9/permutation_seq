@@ -1,2 +1,2 @@
-permutation_seq
+permutation_seq generator by functional language
 ===============
